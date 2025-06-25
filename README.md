@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <!-- Add more as you grow -->
+  <!-- Add more tools here -->
 </p>
 
 ---
@@ -62,6 +62,9 @@
 <p align="center">
   <a href="https://github.com/RADHE-SHYAM-03" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-RADHE--SHYAM--03-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/radhe-shyam-6b5780236/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Radhey%20Shyam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 

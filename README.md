@@ -11,7 +11,7 @@
   <a href="https://instagram.com/sham_dravid_03" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-sham__dravid__03-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/c/unlocked_motivation" target="_blank">
+  <a href="https://www.youtube.com/unlocked_motivation" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Unlocked%20Motivation-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://www.leetcode.com/sham_dravid_03" target="_blank">

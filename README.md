@@ -22,9 +22,3 @@
 ### 👨‍💻 Currently Learning
 
 ![Learning](https://media.giphy.com/media/3o7aD4zA5wNVCxyE4Y/giphy.gif)
-<details>
-  <summary>Click to see my GeeksforGeeks Stats 📊</summary>
-
-  ![GeeksforGeeks Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=radheyshayam2005)
-
-</details>

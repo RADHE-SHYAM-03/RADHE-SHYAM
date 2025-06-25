@@ -1,8 +1,7 @@
-<h1 align="center">Hi, I'm Radhey! 👋</h1>
+<h1 align="center">Hi, I'm Sham! 👋</h1>
 
 <p align="center">
-  🚀 Passionate about problem-solving, coding, and exploring new technologies. <br>
-  👨‍💻 Always eager to learn and contribute to open-source.
+  Pushing Limits.
 </p>
 
 ---
@@ -13,8 +12,17 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <!-- Add more tools here -->
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 </p>
+
+## 🛠️ Core Skills
+
+- **Programming Languages:** C/C++, Java  
+- **Backend:** Node.js , Express.js  
+- **Tools & Methodologies:** Git , GitHub
 
 ---
 
@@ -23,7 +31,7 @@
 <table>
   <tr>
     <td align="center">
-      <b>👨‍💻 GeeksforGeeks Profile</b><br><br>
+      <b>👨‍💻 GeeksforGeeks</b><br><br>
       <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=radheyshayam2005" alt="GeeksforGeeks Stats" />
     </td>
     <td align="center">
@@ -40,21 +48,9 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sham_dravid_03?theme=dark&font=Noto%20Sans%20Runic&ext=heatmap" alt="LeetCode Stats" />
 </p>
-
-<details>
-  <summary>📊 Click for More LeetCode Insights</summary>
-
-  ### 📌 Recent Activity  
-  <img src="https://leetcard.jacoblin.cool/sham_dravid_03?ext=activity" alt="Recent Activity" />
-
-  ### 🧪 Contest Rating History  
-  <img src="https://leetcard.jacoblin.cool/sham_dravid_03?ext=contest" alt="Contest History" />
-
-  ### 🔥 Weekly Activity Heatmap  
-  <img src="https://leetcard.jacoblin.cool/sham_dravid_03?ext=heatmap" alt="Heatmap" />
-
-</details>
-
+  - **Recent Activity:** <img src="https://leetcard.jacoblin.cool/sham_dravid_03?ext=activity" alt="Recent Activity" />  
+  - **Contest Rating History:** <img src="https://leetcard.jacoblin.cool/sham_dravid_03?ext=contest" alt="Contest History" />  
+  
 ---
 
 ## 🔗 Connect with Me

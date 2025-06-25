@@ -20,9 +20,7 @@ Welcome to my GitHub profile! I'm passionate about problem-solving, coding, and 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sham_dravid_03)
 
-    </td>
-    <td>
-
+    
 <details>
   <summary>📈 More LeetCode Details (click to expand)</summary>
 
@@ -37,7 +35,6 @@ Welcome to my GitHub profile! I'm passionate about problem-solving, coding, and 
 
 </details>
 
-    </td>
   </tr>
 </table>
 

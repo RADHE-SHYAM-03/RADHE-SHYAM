@@ -2,14 +2,6 @@
 
 ## 🚀 My Coding Stats
 
-<details>
-  <summary>Click here to view my GeeksforGeeks Stats 📊</summary>
-
-  ![GeeksforGeeks Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=radheyshayam2005)
-  
-  *Keep coding, keep growing!* 💪
-</details>
-
 ## 🛠️ Languages & Tools
 
 ![C++](https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=c%2B%2B)
@@ -22,3 +14,22 @@
 ### 👨‍💻 Currently Learning
 
 ![Learning](https://media.giphy.com/media/3o7aD4zA5wNVCxyE4Y/giphy.gif)
+## 🚀 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/sham_dravid_03)
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
+
+## 🏆 Recent Activity
+
+![Recent Activity](https://leetcard.jacoblin.cool/sham_dravid_03?ext=activity)
+
+## 🏁 Contest Rating History
+
+![Contest Rating History](https://leetcard.jacoblin.cool/sham_dravid_03?ext=contest)
+
+## 📊 Weekly Activity Heatmap
+
+![Activity Heatmap](https://leetcard.jacoblin.cool/sham_dravid_03?ext=heatmap)

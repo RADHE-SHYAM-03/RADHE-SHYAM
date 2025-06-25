@@ -1,48 +1,70 @@
-# Hi, I'm Radhey! 👋
+<h1 align="center">Hi, I'm Radhey! 👋</h1>
 
-Welcome to my GitHub profile! I'm passionate about problem-solving, coding, and learning new technologies.
-
----
-
-## 🚀 My Coding Stats & Tools
-
-| **Languages & Tools**                                       | **GeeksforGeeks Stats**                                                                 | **GitHub Stats**                                                                                   |
-|------------------------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| ![C++](https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=c%2B%2B) ![Java](https://img.shields.io/badge/Language-Java-007396?style=flat-square&logo=java) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) | ![GeeksforGeeks](https://geeks-for-geeks-stats-api.vercel.app/?userName=radheyshayam2005) | ![GitHub](https://github-readme-stats.vercel.app/api?username=RADHE-SHYAM-03&show_icons=true&theme=radical) |
+<p align="center">
+  🚀 Passionate about problem-solving, coding, and exploring new technologies. <br>
+  👨‍💻 Always eager to learn and contribute to open-source.
+</p>
 
 ---
 
-## 🚀 LeetCode Stats
+## 🚀 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <!-- Add more as you grow -->
+</p>
+
+---
+
+## 📊 Coding Stats
 
 <table>
   <tr>
-    <td>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/sham_dravid_03?theme=dark&font=Noto%20Sans%20Runic&ext=heatmap)
-
-    
-<details>
-  <summary>📈 More LeetCode Details (click to expand)</summary>
-
-  ### 🏆 Recent Activity  
-  ![Recent Activity](https://leetcard.jacoblin.cool/sham_dravid_03?ext=activity)
-
-  ### 🏁 Contest Rating History  
-  ![Contest Rating History](https://leetcard.jacoblin.cool/sham_dravid_03?ext=contest)
-
-  ### 📊 Weekly Activity Heatmap  
-  ![Activity Heatmap](https://leetcard.jacoblin.cool/sham_dravid_03?ext=heatmap)
-
-</details>
-
+    <td align="center">
+      <b>👨‍💻 GeeksforGeeks Profile</b><br><br>
+      <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=radheyshayam2005" alt="GeeksforGeeks Stats" />
+    </td>
+    <td align="center">
+      <b>📈 GitHub Stats</b><br><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=RADHE-SHYAM-03&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
   </tr>
 </table>
 
+---
 
-### 🔗 Connect with me
+## 🧠 LeetCode Profile
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-RADHE--SHYAM--03-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RADHE-SHYAM-03)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sham_dravid_03?theme=dark&font=Noto%20Sans%20Runic&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
+<details>
+  <summary>📊 Click for More LeetCode Insights</summary>
 
-Thanks for visiting! Feel free to connect or collaborate! 🚀
+  ### 📌 Recent Activity  
+  <img src="https://leetcard.jacoblin.cool/sham_dravid_03?ext=activity" alt="Recent Activity" />
 
+  ### 🧪 Contest Rating History  
+  <img src="https://leetcard.jacoblin.cool/sham_dravid_03?ext=contest" alt="Contest History" />
+
+  ### 🔥 Weekly Activity Heatmap  
+  <img src="https://leetcard.jacoblin.cool/sham_dravid_03?ext=heatmap" alt="Heatmap" />
+
+</details>
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/RADHE-SHYAM-03" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-RADHE--SHYAM--03-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">Thanks for visiting! Feel free to connect or collaborate 🤝</p>

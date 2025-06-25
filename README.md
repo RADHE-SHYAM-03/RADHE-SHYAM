@@ -38,18 +38,11 @@ Welcome to my GitHub profile! I'm passionate about problem-solving, coding, and 
   </tr>
 </table>
 
----
-
-## 👨‍💻 Currently Learning
-
-![Learning](https://media.giphy.com/media/3o7aD4zA5wNVCxyE4Y/giphy.gif)
-
----
-
-Thanks for visiting! Feel free to connect or collaborate! 🚀
-
----
 
 ### 🔗 Connect with me
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-RADHE--SHYAM--03-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RADHE-SHYAM-03)
+
+
+Thanks for visiting! Feel free to connect or collaborate! 🚀
+

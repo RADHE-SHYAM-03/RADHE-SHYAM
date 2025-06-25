@@ -11,8 +11,11 @@
   <a href="https://instagram.com/sham_dravid_03" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-sham__dravid__03-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/unlocked_motivation" target="_blank">
+  <a href="https://youtube.com/@unlocked_motivation" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Unlocked%20Motivation-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:radheyshayam2005@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-radheyshayam2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.leetcode.com/sham_dravid_03" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-sham__dravid__03-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
@@ -23,25 +26,28 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: **radheyshayam2005@gmail.com**
-- 💼 Portfolio: [GitHub Projects](https://github.com/RADHE-SHYAM-03)
+- 📧 **Email:** radheyshayam2005@gmail.com  
+- 💼 **GitHub Portfolio:** [RADHE-SHYAM-03](https://github.com/RADHE-SHYAM-03)
 
 ---
 
-## 🚀 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cordova-35434F?style=flat-square&logo=apache-cordova&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
 ---
@@ -49,11 +55,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radhe-shyam-03&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhe-shyam-03&layout=compact&theme=radical" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radhe-shyam-03&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RADHE-SHYAM-03&theme=dark&show_icons=true&hide_border=false" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RADHE-SHYAM-03&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RADHE-SHYAM-03&theme=dark&layout=compact&hide_border=false" alt="Top Languages" />
+</p>
+
+---
+
+### 🔝 Top Contributed Repos
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=RADHE-SHYAM-03&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 ---
@@ -68,12 +81,18 @@
     </td>
     <td align="center">
       <b>🧠 LeetCode</b><br>
-      <img src="https://leetcard.jacoblin.cool/sham_dravid_03?theme=dark&font=Noto%20Sans%20Runic&ext=heatmap" alt="LeetCode Stats" />
-      <img src="https://leetcard.jacoblin.cool/sham_dravid_03?ext=contest" alt="Contest History" />
+      <img src="https://leetcard.jacoblin.cool/sham_dravid_03?theme=dark&ext=heatmap" alt="LeetCode Heatmap" />
+      <img src="https://leetcard.jacoblin.cool/sham_dravid_03?ext=contest" alt="LeetCode Contests" />
     </td>
   </tr>
 </table>
 
 ---
 
-<p align="center">🏁 Thanks for visiting! Feel free to connect or collaborate 🤝</p>
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=RADHE-SHYAM-03&icon=0&color=0" alt="Profile Views" />
+</p>
+
+<p align="center">🏁 Thanks for visiting! Let’s connect or collaborate 🤝</p>
+
+<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->

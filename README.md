@@ -89,10 +89,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=RADHE-SHYAM-03&icon=0&color=0" alt="Profile Views" />
-</p>
 
 <p align="center">🏁 Thanks for visiting! Let’s connect or collaborate 🤝</p>
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->

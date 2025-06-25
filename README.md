@@ -44,13 +44,10 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sham_dravid_03?theme=dark&font=Noto%20Sans%20Runic&ext=heatmap" alt="LeetCode Stats" />
-</p>
-<p align="center">
-   ## Recent Activity: <img src="https://leetcard.jacoblin.cool/sham_dravid_03?ext=activity" alt="Recent Activity" />  
- ##Contest Rating History: <img src="https://leetcard.jacoblin.cool/sham_dravid_03?ext=contest" alt="Contest History" />  
+  <img src="https://leetcard.jacoblin.cool/sham_dravid_03?ext=activity" alt="Recent Activity" />  
+  <img src="https://leetcard.jacoblin.cool/sham_dravid_03?ext=contest" alt="Contest History" />  
 </p>
 
-  
 ---
 
 ## 🔗 Connect with Me

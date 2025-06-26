@@ -1,116 +1,157 @@
-<h1 align="center">Hi 👋, I'm Shyam</h1>
-<h3 align="center">Pushing the Limits 🚀</h3>
+# <div align="center">👋 Hi there, I'm **Shyam** 🚀</div>
 
-<p align="center">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Always+Learning+New+Tech;Pushing+the+Limits+%F0%9F%9A%80" alt="Typing Animation" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RADHE-SHYAM-03&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/RADHE-SHYAM-03?style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Followers" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
   <a href="https://github.com/RADHE-SHYAM-03" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-RADHE--SHYAM--03-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=1a1a1a" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/radhe-shyam-6b5780236/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Radhey%20Shyam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/sham_dravid_03" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-sham__dravid__03-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://youtube.com/@unlocked_motivation" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Unlocked%20Motivation-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="mailto:radheyshayam2005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-radheyshayam2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.leetcode.com/sham_dravid_03" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-sham__dravid__03-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://unstop.com/u/radheshy9558" target="_blank">
-    <img src="https://img.shields.io/badge/Unstop-radheshy9558-4C4CFF?style=for-the-badge&logo=unacademy&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 📫 Contact Me
+## 🛠️ Tech Arsenal
 
-- 📧 **Email:** radheyshayam2005@gmail.com  
-- 💼 **GitHub Portfolio:** [RADHE-SHYAM-03](https://github.com/RADHE-SHYAM-03)
+<div align="center">
 
----
+### 💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 💻 Tech Stack
+### 🚀 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Apache Cordova](https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-</p>
+### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RADHE-SHYAM-03&theme=dark&show_icons=true&hide_border=false" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RADHE-SHYAM-03&theme=dark&layout=compact&hide_border=false" alt="Top Languages" />
-</p>
+</div>
 
 ---
 
-## 🔝 Top Contributed Repos
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=RADHE-SHYAM-03&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RADHE-SHYAM-03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RADHE-SHYAM-03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RADHE-SHYAM-03&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats" />
+</div>
 
 ---
 
-## 💻 Coding Profiles
+## 🏆 GitHub Trophies
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <h3>👨‍💻 GeeksforGeeks</h3>
-      <a href="https://auth.geeksforgeeks.org/user/radheyshayam2005" target="_blank">
-        <img src="https://img.shields.io/badge/GFG-radheyshayam2005-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-      </a>
-      <br><br>
-      <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=radheyshayam2005&theme=dark" alt="GFG Stats" width="300"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>🧠 LeetCode</h3>
-      <a href="https://www.leetcode.com/sham_dravid_03" target="_blank">
-        <img src="https://img.shields.io/badge/LeetCode-sham__dravid__03-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-      </a>
-      <br><br>
-      <img src="https://leetcard.jacoblin.cool/sham_dravid_03?theme=dark&ext=heatmap" alt="LeetCode Heatmap" width="300" />
-      <br>
-      <img src="https://leetcard.jacoblin.cool/sham_dravid_03?ext=contest" alt="LeetCode Contests" width="300" />
-    </td>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RADHE-SHYAM-03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 💻 Coding Platforms
+
+<div align="center">
+
+### 🧠 Problem Solving Stats
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🔥 LeetCode**
+<br><br>
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/sham_dravid_03)
+<br><br>
+![LeetCode Stats](https://leetcard.jacoblin.cool/sham_dravid_03?theme=dark&font=Karma&ext=heatmap)
+
+</td>
+<td align="center" width="50%">
+
+**🚀 GeeksforGeeks**
+<br><br>
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/radheyshayam2005)
+<br><br>
+![GFG Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=radheyshayam2005&theme=dark)
+
+</td>
 </tr>
-  <tr>
-    <td align="center">
-      <h3>🚀 Unstop</h3>
-      <a href="https://unstop.com/u/radheshy9558" target="_blank">
-        <img src="https://img.shields.io/badge/Unstop-radheshy9558-4C4CFF?style=for-the-badge&logo=unacademy&logoColor=white" />
-      </a>
-      <br><br>
-      <img src="https://img.freepik.com/free-vector/quiz-comic-pop-art-style_175838-505.jpg?w=400" alt="Unstop Banner" width="300" />
-    </td>
-  </tr>
-  </tr>
 </table>
 
+### 🏁 Competitive Programming
+[![Unstop](https://img.shields.io/badge/Unstop-4285f4?style=for-the-badge&logo=google&logoColor=white)](https://unstop.com/u/radheshy9558)
+
+</div>
+
 ---
 
-<p align="center">🏁 Thanks for visiting! Let’s connect or collaborate 🤝</p>
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RADHE-SHYAM-03&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🔭 Working on **Full Stack Web Development Projects**
+- 🌱 Learning **Advanced React Patterns & Node.js**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Web Development, DSA, and Problem Solving**
+- ⚡ Fun fact: **I love creating content on YouTube!**
+
+---
+
+## 📫 Get In Touch
+
+<div align="center">
+  <h3>💼 Let's collaborate and build something amazing together! 🚀</h3>
+  
+  **📧 Email:** [radheyshayam2005@gmail.com](mailto:radheyshayam2005@gmail.com)
+  
+  **🔗 Portfolio:** [GitHub Profile](https://github.com/RADHE-SHYAM-03)
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" alt="Footer Wave" />
+  
+  **Thanks for stopping by! 🎉 Let's connect and create something incredible! ✨**
+  
+  <img src="https://komarev.com/ghpvc/?username=RADHE-SHYAM-03&style=flat-square&color=blue" alt="Profile Views"/>
+</div>

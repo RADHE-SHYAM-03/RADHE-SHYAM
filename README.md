@@ -24,8 +24,6 @@
   </a>
 </div>
 
----
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">

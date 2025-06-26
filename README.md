@@ -20,6 +20,9 @@
   <a href="https://www.leetcode.com/sham_dravid_03" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-sham__dravid__03-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  <a href="https://unstop.com/u/radheshy9558" target="_blank">
+    <img src="https://img.shields.io/badge/Unstop-radheshy9558-4C4CFF?style=for-the-badge&logo=unacademy&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -62,7 +65,8 @@
 
 ---
 
-### 🔝 Top Contributed Repos
+## 🔝 Top Contributed Repos
+
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=RADHE-SHYAM-03&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
@@ -74,25 +78,36 @@
 <table align="center">
   <tr>
     <td align="center">
-      <b>👨‍💻 GeeksforGeeks</b><br>
-      <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=radheyshayam2005" alt="GFG Stats" />
+      <h3>👨‍💻 GeeksforGeeks</h3>
+      <a href="https://auth.geeksforgeeks.org/user/radheyshayam2005" target="_blank">
+        <img src="https://img.shields.io/badge/GFG-radheyshayam2005-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+      </a>
+      <br><br>
+      <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=radheyshayam2005&theme=dark" alt="GFG Stats" width="300"/>
     </td>
+
     <td align="center">
-      <b>🧠 LeetCode</b><br>
-      <img src="https://leetcard.jacoblin.cool/sham_dravid_03?theme=dark&ext=heatmap" alt="LeetCode Heatmap" />
-      <img src="https://leetcard.jacoblin.cool/sham_dravid_03?ext=contest" alt="LeetCode Contests" />
+      <h3>🧠 LeetCode</h3>
+      <a href="https://www.leetcode.com/sham_dravid_03" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-sham__dravid__03-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+      </a>
+      <br><br>
+      <img src="https://leetcard.jacoblin.cool/sham_dravid_03?theme=dark&ext=heatmap" alt="LeetCode Heatmap" width="300" />
+      <br>
+      <img src="https://leetcard.jacoblin.cool/sham_dravid_03?ext=contest" alt="LeetCode Contests" width="300" />
     </td>
+
     <td align="center">
-      <b>🚀 Unstop</b><br>
+      <h3>🚀 Unstop</h3>
       <a href="https://unstop.com/u/radheshy9558" target="_blank">
         <img src="https://img.shields.io/badge/Unstop-radheshy9558-4C4CFF?style=for-the-badge&logo=unacademy&logoColor=white" />
       </a>
+      <br><br>
+      <img src="https://img.freepik.com/free-vector/quiz-comic-pop-art-style_175838-505.jpg?w=400" alt="Unstop Banner" width="300" />
     </td>
   </tr>
 </table>
 
-
 ---
-
 
 <p align="center">🏁 Thanks for visiting! Let’s connect or collaborate 🤝</p>

@@ -85,7 +85,8 @@
       <br><br>
       <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=radheyshayam2005&theme=dark" alt="GFG Stats" width="300"/>
     </td>
-
+  </tr>
+  <tr>
     <td align="center">
       <h3>🧠 LeetCode</h3>
       <a href="https://www.leetcode.com/sham_dravid_03" target="_blank">
@@ -96,7 +97,8 @@
       <br>
       <img src="https://leetcard.jacoblin.cool/sham_dravid_03?ext=contest" alt="LeetCode Contests" width="300" />
     </td>
-
+</tr>
+  <tr>
     <td align="center">
       <h3>🚀 Unstop</h3>
       <a href="https://unstop.com/u/radheshy9558" target="_blank">
@@ -105,6 +107,7 @@
       <br><br>
       <img src="https://img.freepik.com/free-vector/quiz-comic-pop-art-style_175838-505.jpg?w=400" alt="Unstop Banner" width="300" />
     </td>
+  </tr>
   </tr>
 </table>
 

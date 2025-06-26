@@ -1,14 +1,8 @@
 # <div align="center">👋 Hi there, I'm **Shyam** 🚀</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Always+Learning+New+Tech;Pushing+the+Limits+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Problem+Solver;Developer;Pushing+the+Limits+%F0%9F%9A%80" alt="Typing Animation" />
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RADHE-SHYAM-03&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/RADHE-SHYAM-03?style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Followers" />
-</div>
-
 ---
 
 ## 🌐 Connect With Me
@@ -125,15 +119,6 @@
 </div>
 
 ---
-
-## 🎯 Current Focus
-
-- 🔭 Working on **Full Stack Web Development Projects**
-- 🌱 Learning **Advanced React Patterns & Node.js**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, DSA, and Problem Solving**
-- ⚡ Fun fact: **I love creating content on YouTube!**
-
 ---
 
 ## 📫 Get In Touch
@@ -143,7 +128,7 @@
   
   **📧 Email:** [radheyshayam2005@gmail.com](mailto:radheyshayam2005@gmail.com)
   
-  **🔗 Portfolio:** [GitHub Profile](https://github.com/RADHE-SHYAM-03)
+  **🔗 GitHub:** [GitHub Profile](https://github.com/RADHE-SHYAM-03)
 </div>
 
 ---
